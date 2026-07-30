@@ -2,6 +2,16 @@
   <img src="banner.png" alt="Sai Vaishnavi Banner" width="100%" />
 </p>
 
+
+<h1 align="center">
+Hi 👋 I'm Sai Vaishnavi
+</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=8B5CF6&lines=AI+%26+ML+Student;Python+Developer;Building+AI+Projects;Machine+Learning+Enthusiast;Always+Learning+Something+New"/>
+AI & ML Student • Python Developer • AI Enthusiast
+</p>
+
+<p align="center">
+I enjoy building intelligent applications that solve real-world problems.
+Every project is an opportunity to learn, experiment and create something meaningful.
 </p>
