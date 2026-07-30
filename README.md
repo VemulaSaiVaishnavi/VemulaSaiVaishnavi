@@ -3,15 +3,43 @@
 </p>
 
 
-<h1 align="center">
-Hi 👋 I'm Sai Vaishnavi
-</h1>
+<div align="center">
 
-<p align="center">
-AI & ML Student • Python Developer • AI Enthusiast
-</p>
+# 👋 Welcome to My Profile
 
-<p align="center">
-I enjoy building intelligent applications that solve real-world problems.
-Every project is an opportunity to learn, experiment and create something meaningful.
-</p>
+### *Building ideas into intelligent solutions, one project at a time.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100000&color=00000000&center=true&vCenter=true&width=1&height=1" />
+
+</div>
+
+---
+
+```python
+class SaiVaishnavi:
+
+    def __init__(self):
+        self.role = "AI & ML Student"
+        self.location = "Hyderabad, India"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI"
+        ]
+
+    def philosophy(self):
+        return (
+            "I don't just learn AI—I build with it. "
+            "Every repository here represents a challenge explored, "
+            "a problem solved, and a step forward in my journey."
+        )
+```
+
+> 💜 **This isn't just a GitHub profile.**
+>
+> It's my digital workspace where curiosity becomes code, ideas become projects, and learning never stops.
+>
+> **Take a look around—there's always something new being built. 🚀**
+
+---
