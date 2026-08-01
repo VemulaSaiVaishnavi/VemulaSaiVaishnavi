@@ -147,3 +147,92 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 </table>
 
 ---
+
+
+<div align="center">
+
+# 💼 My Journey
+
+<i>Learning through real-world experience.</i>
+
+</div>
+
+<br>
+
+```text
+📍 2026
+│
+├── 🤖 AI-Assisted Content Creator
+│   SmaranAI
+│   Built AI-assisted educational datasets, validated content,
+│   and contributed to AI training workflows.
+│
+├── 🏷️ AI Annotation Specialist
+│   Student Tribe (Tao Digital)
+│   Annotated and validated text, image, audio, and video datasets
+│   while ensuring high-quality AI training data.
+│
+└── 🚀 Continuing to build AI projects...
+
+
+```markdown
+<div align="center">
+
+# 🌱 Currently Exploring
+
+<i>Always learning. Always building.</i>
+
+</div>
+
+<br>
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- ⚙️ MLOps
+- 🔓 Open Source
+
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VemulaSaiVaishnavi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VemulaSaiVaishnavi&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VemulaSaiVaishnavi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+
+<div align="center">
+
+# 📫 Let's Connect
+
+<a href="[https://www.linkedin.com/in/sai-vaishnavi-vemula-8816a4351/]">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:vemulasaivaishnavi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+
+<div align="center">
+
+### ✨ Thanks for stopping by!
+
+*"Learning by building. Growing by creating."*
+
+⭐ If you like my work, feel free to explore my repositories.
+
+</div>
