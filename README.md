@@ -3,27 +3,20 @@
 </p>
 
 
->  # 👋 Welcome to My Profile
->
-> It's my digital workspace where curiosity becomes code, ideas become projects, and learning never stops.
->
-> **Take a look around—there's always something new being built. 🚀**
-
----
-
-
 <div align="center">
 
-# ✦ Designing the Future with AI
+# ✨ Building the Future with AI
 
-### Learning today. Building for tomorrow.
+### *Learning today. Building for tomorrow.*
 
 </div>
 
-Hello, I'm **Sai Vaishnavi** 👋
+Hi there! I'm **Sai Vaishnavi** 👋
 
-An AI & ML student passionate about transforming ideas into intelligent solutions through code, creativity, and continuous learning.
+I'm an AI & ML student who loves turning ideas into intelligent solutions through code, creativity, and continuous learning.
 
-This profile is a collection of my projects, experiments, and milestones as I grow into an AI Engineer.
+This GitHub is my digital workspace—a place where I build projects, explore new technologies, and document my journey toward becoming an AI Engineer.
+
+**Take a look around—there's always something new being built. 🚀**
 
 ---
