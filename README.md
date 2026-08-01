@@ -145,11 +145,21 @@ Minimax Algorithm implementation with an unbeatable AI opponent.
 
 ---
 
-## 📊 GitHub Analytics
+---
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=VemulaSaiVaishnavi&show_icons=true&theme=tokyonight&hide_border=true"/>
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VemulaSaiVaishnavi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=VemulaSaiVaishnavi&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VemulaSaiVaishnavi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
 # 📫 Let's Connect
 
 <p>
