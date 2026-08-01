@@ -20,3 +20,20 @@ This GitHub is my digital workspace—a place where I build projects, explore ne
 **Take a look around—there's always something new being built. 🚀**
 
 ---
+
+
+<div align="center">
+
+# 🛠️ Tech Arsenal
+
+<i>Technologies I enjoy building with</i>
+
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,html,mysql,git,github,vscode" />
+</p>
+
+</div>
+
+---
