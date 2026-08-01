@@ -3,8 +3,6 @@
 </p>
 
 
-<div align="center">
-
 # ✨ Building the Future with AI
 
 ### *Learning today. Building for tomorrow.*
