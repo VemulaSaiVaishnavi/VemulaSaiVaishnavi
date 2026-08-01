@@ -149,11 +149,17 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 
 <div align="center">
 
+---
+
+<div align="left">
+
 # 💼 My Journey
 
 <i>Learning through real-world experience.</i>
 
 </div>
+
+<br>
 
 ```text
 📍 2026
@@ -173,7 +179,7 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 
 ---
 
-<div align="center">
+<div align="left">
 
 # 🌱 Currently Exploring
 
@@ -189,39 +195,55 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 
 ---
 
-<div align="center">
+<div align="left">
 
 # 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VemulaSaiVaishnavi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VemulaSaiVaishnavi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VemulaSaiVaishnavi&theme=tokyonight&hide_border=true"/>
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VemulaSaiVaishnavi&theme=tokyonight&hide_border=true" />
+</p>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VemulaSaiVaishnavi&layout=compact&theme=tokyonight&hide_border=true"/>
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VemulaSaiVaishnavi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 # 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/sai-vaishnavi-vemula-8816a4351/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/sai-vaishnavi-vemula-8816a4351/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
 
-&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:vemulasaivaishnavi@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+  <a href="mailto:vemulasaivaishnavi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
 </div>
 
 ---
+
+<div align="left">
+
+### 💜 Learning by Building
+
+> *"Every project begins with curiosity, grows through persistence, and becomes another step in my journey as an AI Engineer."*
+
+Thanks for visiting my profile! Feel free to explore my repositories or connect with me.
+
+</div>
 
 <div align="center">
 
