@@ -157,8 +157,6 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 
 </div>
 
-<br>
-
 ```text
 📍 2026
 │
@@ -173,9 +171,10 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 │   while ensuring high-quality AI training data.
 │
 └── 🚀 Continuing to build AI projects...
+```
 
+---
 
-```markdown
 <div align="center">
 
 # 🌱 Currently Exploring
@@ -184,22 +183,21 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 
 </div>
 
-<br>
-
 - 🤖 Large Language Models (LLMs)
 - 🧠 Deep Learning
 - 👁️ Computer Vision
 - ⚙️ MLOps
-- 🔓 Open Source
+- 🌍 Open Source
 
+---
 
 <div align="center">
 
 # 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VemulaSaiVaishnavi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VemulaSaiVaishnavi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VemulaSaiVaishnavi&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VemulaSaiVaishnavi&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -209,23 +207,23 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 
 ---
 
-
 <div align="center">
 
 # 📫 Let's Connect
 
-<a href="[https://www.linkedin.com/in/sai-vaishnavi-vemula-8816a4351/]">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/sai-vaishnavi-vemula-8816a4351/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:vemulasaivaishnavi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -233,6 +231,6 @@ Classic Tic Tac Toe powered by the Minimax algorithm, creating an unbeatable AI 
 
 *"Learning by building. Growing by creating."*
 
-⭐ If you like my work, feel free to explore my repositories.
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
